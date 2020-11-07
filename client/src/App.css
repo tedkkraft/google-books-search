@@ -1,4 +1,12 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+
+body {
+  background-color: rgb(252, 237, 196);
+  font-family: 'Merriweather', serif;
+
+}
+/* .App {
   text-align: center;
 }
 
@@ -21,4 +29,4 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
+} */
